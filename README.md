@@ -1,2 +1,2 @@
 # Web-Security
-Web Security Academy Learning Paths From PortSwigger
+Web Security Academy Learning Paths From PortSwigger.
