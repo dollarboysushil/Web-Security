@@ -69,7 +69,7 @@ To solve the lab, log in as the `administrator` user.
 note
 
 
-![[../../images/Pasted image 20231024221107.png]]
+![[../../../images/Pasted image 20231024221107.png]]
 
 
 

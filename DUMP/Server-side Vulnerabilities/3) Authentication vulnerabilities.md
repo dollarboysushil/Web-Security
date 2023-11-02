@@ -14,7 +14,7 @@ In this section, we explain:
 - Typical vulnerabilities that are introduced by their improper implementation.
 - How you can make your own authentication mechanisms as robust as possible.
 
-![[../images/Pasted image 20231008201253.png]]
+![[../../images/Pasted image 20231008201253.png]]
 
 
 ## What is the difference between authentication and authorization?
