@@ -27,6 +27,16 @@ when entered 3 nulls we got 200 response , thus the number of column = 3
 ----
 Extra note
 
+we can find the number of column using order by method
+for example
+order by 1 
+order by 2 
+order by 3
+and so
+
+on above query , the 500 response returned by the query - 1 is the number of column
+
+
 
 SQLi - Product category filter
 
