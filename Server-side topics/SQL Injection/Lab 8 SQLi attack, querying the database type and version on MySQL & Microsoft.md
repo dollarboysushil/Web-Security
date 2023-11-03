@@ -11,6 +11,9 @@ You can query the database to determine its type and version. This information i
 |PostgreSQL|`SELECT version()`|
 |MySQL|`SELECT @@version`|
 
+
+## Burp
+
 GET /filter?category=Pets HTTP/2
 
 ## Finding the number column:
